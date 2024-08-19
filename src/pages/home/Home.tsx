@@ -1,4 +1,3 @@
-import React from 'react';
 import homeLogo from '../../assets/Home.jpg'
 import ListaPostagens from '../../components/Postagem/ListaPostagens/ListaPostagens';
 import ModalPostagem from '../../components/Postagem/modalPostagem/ModalPostagem';
